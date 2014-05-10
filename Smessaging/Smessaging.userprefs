@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/JsonMessageConsumer.cs">
+    <Files>
+      <File FileName="Core/Listener.cs" Line="38" Column="13" />
+      <File FileName="Core/ListenerTaskFactory.cs" Line="35" Column="65" />
+      <File FileName="Core/ListenerFaultHandler.cs" Line="10" Column="10" />
+      <File FileName="Core/JsonMessageConsumer.cs" Line="11" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
